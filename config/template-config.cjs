@@ -19,6 +19,7 @@ const TEMPLATE_CONFIG = [
       🚩风向: {{wind_direction.DATA}}
       
       🌀风级: {{wind_scale.DATA}}
+      
       ---
       💑今天是我们在一起的第{{love_day.DATA}}天🔥🔥
       
