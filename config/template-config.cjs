@@ -3,11 +3,11 @@ const TEMPLATE_CONFIG = [
   {
     id: '0001',
     
-    title: 'AAAA',
+    title: '( •̀ ω •́ )✧',
 
     
     desc: `
-      小马宝贝🦄, 早上好( •̀ ω •́ )✧
+      小马宝贝🦄, 早上好
       ---
       
       📆 {{date.DATA}}
