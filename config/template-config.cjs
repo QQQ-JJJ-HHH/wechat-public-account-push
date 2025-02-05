@@ -4,12 +4,13 @@ const TEMPLATE_CONFIG = [
     id: '0001',
     
     title: '小马宝贝🦄, 早上好( •̀ ω •́ )✧',
+
     
     desc: `
     
       📆**{{date.DATA}}**
-      
-      🏙城市：{{city.DATA}}
+      ---
+      🚅城市：{{city.DATA}}
       
       ⛅天气：{{weather.DATA}}
       
@@ -18,16 +19,14 @@ const TEMPLATE_CONFIG = [
       🚩风向: {{wind_direction.DATA}}
       
       🌀风级: {{wind_scale.DATA}}
-      
       ---
       💑今天是我们在一起的第{{love_day.DATA}}天🔥🔥
       
       {{birthday_message.DATA}}
-    
       ---
       ⭐{{note_en.DATA}}
       
-      🌞{{note_ch.DATA}}
+      🎈{{note_ch.DATA}}
       
       🌈{{earthy_love_words.DATA}}
 
