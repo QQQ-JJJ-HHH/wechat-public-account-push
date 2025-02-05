@@ -3,14 +3,15 @@ const TEMPLATE_CONFIG = [
   {
     id: '0001',
     
-    title: '小马宝贝🦄, 早上好( •̀ ω •́ )✧',
+    //title: '小马宝贝🦄, 早上好( •̀ ω •́ )✧',
 
     
     desc: `
       小马宝贝🦄, 早上好( •̀ ω •́ )✧
       ---
-      📆**{{date.DATA}}**
-      ---
+      
+      📆 {{date.DATA}}
+      
       🚅城市：{{city.DATA}}
       
       ⛅天气：{{weather.DATA}}
