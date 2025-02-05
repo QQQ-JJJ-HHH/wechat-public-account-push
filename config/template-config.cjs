@@ -12,7 +12,7 @@ const TEMPLATE_CONFIG = [
       
       📆 {{date.DATA}}
       
-      🚅城市：{{city.DATA}}
+      🌏城市：{{city.DATA}}
       
       ⛅天气：{{weather.DATA}}
       
