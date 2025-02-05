@@ -2,12 +2,14 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的小马宝贝🦄, 早上好( •̀ ω •́ )✧',
+    title: '小马宝贝🦄, 早上好( •̀ ω •́ )✧',
     desc: `
       📆**{{date.DATA}}**
+
       
-      下个休息日：{{holidaytts.DATA}}
+      下个休息日：{{wx_holidaytts_0.DATA}}
       ---
+
       
       ✨城市：{{city.DATA}}
       
@@ -23,12 +25,13 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      今天是我们在一起的第{{love_day.DATA}}天
+      💑今天是我们在一起的第{{love_day.DATA}}天🔥🔥
       
-      {{birthday_message.DATA}}
+      🎁🎁{{birthday_message.DATA}}
       
       ---
-      
+      {{note_en.DATA}}
+      {{note_ch.DATA}}
       {{moment_copyrighting.DATA}}
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
