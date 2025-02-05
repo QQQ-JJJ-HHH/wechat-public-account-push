@@ -7,7 +7,8 @@ const TEMPLATE_CONFIG = [
 
     
     desc: `
-    
+      小马宝贝🦄, 早上好( •̀ ω •́ )✧
+      ---
       📆**{{date.DATA}}**
       ---
       🚅城市：{{city.DATA}}
