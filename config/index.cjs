@@ -6,12 +6,12 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-  USE_PASSAGE: 'push-deer',
+  //USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx1ad5d689b10bc6b7',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '53bfc3b3588a73f2d38296bf4475f4dc',
 
   PROVINCE: '浙江',
   CITY: '金华',
