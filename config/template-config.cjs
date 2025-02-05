@@ -3,7 +3,7 @@ const TEMPLATE_CONFIG = [
   {
     id: '0001',
     
-    title: '',
+    title: 'AAAA',
 
     
     desc: `
