@@ -2,6 +2,7 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
+    
     title: '小马宝贝🦄, 早上好( •̀ ω •́ )✧',
     
     desc: `
@@ -18,21 +19,19 @@ const TEMPLATE_CONFIG = [
       
       🌀风级: {{wind_scale.DATA}}
       
-      {{comprehensive_horoscope.DATA}}
-      
       ---
-      
       💑今天是我们在一起的第{{love_day.DATA}}天🔥🔥
       
-      🎁{{birthday_message.DATA}}
-      🎁
-      
+      {{birthday_message.DATA}}
+    
       ---
       ⭐{{note_en.DATA}}
       
       🌞{{note_ch.DATA}}
       
       🌈{{earthy_love_words.DATA}}
+
+      ✨{{comprehensive_horoscope.DATA}}
     `
   },
   {
